@@ -1,5 +1,7 @@
 <h1 align="center"> MOHAMMED AMANKHAN</h1>
 <h3 align="center">A passionate Cloud and DevOps Enthusiast with expertise in AWS, Azure, CI/CD pipelines, and infrastructure automation.</h3>
+<img align="right" width="400"  alt="image" src="https://github.com/user-attachments/assets/0b56e641-34d3-4f5e-b34d-375ce2176c7e" />
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amn-khn" alt="amn-khn" /></a> </p>
 
