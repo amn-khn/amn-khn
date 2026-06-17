@@ -1,5 +1,5 @@
 <h1 align="center"> MOHAMMED AMANKHAN</h1>
-<h3 align="center">A passionate Cloud and DevOps Enthusiast with expertise in AWS, Azure, CI/CD pipelines, and infrastructure automation.</h3>
+<h3 align="center">A passionate Cloud and DevOps Enthusiast with expertise in Linux, AWS, Azure, CI/CD pipelines, and infrastructure automation.</h3>
 <img align="right" width="400"  alt="image" src="https://github.com/user-attachments/assets/0b56e641-34d3-4f5e-b34d-375ce2176c7e" />
 
 
